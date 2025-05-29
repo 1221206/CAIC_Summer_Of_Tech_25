@@ -1,5 +1,5 @@
 import numpy as np
-import pandas as pd
+
 
 def grad(x:np.array,y:np.array,w:np.array,b:float,lambda_:float,n:int):
     
