@@ -30,10 +30,11 @@ Before diving into implementation, you need to understand these core concepts th
 Authentication is crucial for any messaging app - we need to know who's sending messages!
 
 **Essential Video Tutorials:**
-- [Authentication Explained in 5 Minutes](https://www.youtube.com/watch?v=YX0gFIjAOLU) - Quick overview
+- [Authentication vs Authorization](https://youtu.be/9rn7Onx8uCk?si=DG9xtjzfzyzEZ8R2) - in 5 min 
 - [JWT Tokens Explained Simply](https://www.youtube.com/watch?v=7Q17ubqLfaM) - 15 min tutorial
 
 **Essential Reading:**
+- [DevClub Spark Series](https://drive.google.com/file/d/1-qRpGQc_Az1rcKOU_tjracQU9vqBbalV/view?usp=sharing) - Authentication vs Authorization
 - [What is Authentication? - Auth0](https://auth0.com/intro-to-iam/what-is-authentication) - Simple explanation
 - [JWT Introduction](https://jwt.io/introduction) - Read the "What is JSON Web Token?" section
 
