@@ -11,7 +11,7 @@ Build, evaluate, and backtest predictive models for stock price forecasting usin
 ### Assignment Details
 
 1. _Choose a Stock_  
-   Select one stock from the dataset (e.g., AAPL).
+   Select the AMZN stock.
 
 2. _Data Splitting_  
    Split the data into training (first 80%) and testing (last 20%) sets, ensuring the split respects the time order.
@@ -55,6 +55,11 @@ This assignment emphasizes applying machine learning concepts, evaluating model 
 
 - [ARIMA Model Tutorial](https://youtu.be/-_2wOrEuFaM?si=xs2CKZycVD16QImp)
 - [ARIMA for Time Series Forecasting](https://youtu.be/nK_jMFdSTZ8?si=NPvPWJa0_PbzztfH)
+
+#### Backtesting 
+- [Backtesting: Definition, How It Works, and Downsides](https://www.investopedia.com/terms/b/backtesting.asp?utm_source=chatgpt.com)
+- [Backtesting.py](https://kernc.github.io/backtesting.py/doc/backtesting/#gsc.tab=0)
+- [Backtesting.py – An Introductory Guide to Backtesting with Python](https://algotrading101.com/learn/backtesting-py-guide/?utm_source=chatgpt.com)
 
 ---
 
