@@ -45,7 +45,7 @@ Y_min= np.min(Y,axis=0)
 Y_max= np.max(Y,axis=0)
 # Train the model
 # cant give give keyword name directly
-weights, bias, costs,w_hist,b_hist = LR.linearRegression(X_train, Y_train, lr=0.01, lambda_=0.01,X_min=X_min,X_max=X_max,Y_min=Y_min,Y_max=Y_max)
+weights, bias, costs,w_hist,b_hist = LR.linearRegression(X_train, Y_train, lr=0.01, lambda_=0.01,X_min=None,X_max=None,Y_min=None,Y_max=None,iter=1000,loss='MSE')
 print("Final Weights:\n", weights)
 print("Final Bias:\n", bias)
 print(w_hist)
